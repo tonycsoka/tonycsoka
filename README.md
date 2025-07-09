@@ -1,11 +1,11 @@
 ## Hi there 👋
-
-[![](https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=tonycsoka&theme=catppuccin-mocha&hide_border=true)](https://github.com/tonycsoka)
-
-[![My github stats](https://github-readme-stats.vercel.app/api?username=tonycsoka&count_private=true&show_icons=true&theme=catppuccin_mocha&hide_border=true)](https://github.com/tonycsoka)
-
+<div align="center">
+[![My github stats](https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=tonycsoka&theme=catppuccin-mocha&hide_border=true)](https://github.com/tonycsoka)
+</div>
+<div align="center">
+[![My github stats - This Year](https://github-readme-stats.vercel.app/api?username=tonycsoka&count_private=true&show_icons=true&theme=catppuccin_mocha&hide_border=true)](https://github.com/tonycsoka)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tonycsoka&hide=php&theme=catppuccin_mocha&hide_border=true)](https://github.com/tonycsoka)
-
+</div>
 <!--
 **tonycsoka/tonycsoka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
