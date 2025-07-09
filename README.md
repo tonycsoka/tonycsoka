@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-[![My github stats](https://github-readme-stats.vercel.app/api?username=tonycsoka&count_private=true&show_icons=true&theme=catppuccin_moch)](https://github.com/tonycsoka)
+[![My github stats](https://github-readme-stats.vercel.app/api?username=tonycsoka&count_private=true&show_icons=true&theme=catppuccin_mocha)](https://github.com/tonycsoka)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tonycsoka&hide=php&theme=catppuccin_moch)](https://github.com/tonycsoka)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tonycsoka&hide=php&theme=catppuccin_mocha)](https://github.com/tonycsoka)
 
 <!--
 **tonycsoka/tonycsoka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
